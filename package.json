@@ -1,0 +1,25 @@
+{
+  "name": "cypressgooglesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarn8911/cypressgooglesearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarn8911/cypressgooglesearch/issues"
+  },
+  "homepage": "https://github.com/omarn8911/cypressgooglesearch#readme",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}
