@@ -29,4 +29,4 @@ This project shows how easy it is to automate a Google search with Cypress and h
 
 ## Bonus
 
-I included a .mp4 video file of the latest execution of this code in the cypress runner as evidence that it works by the moment I  pushed this code to GitHub.
+I included the  g`oogle_search_selenium.cy.js.mp4` video file of the latest execution of this code in the cypress runner as evidence that it works by the moment I  pushed this code to GitHub.
