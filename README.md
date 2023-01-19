@@ -1,11 +1,11 @@
 # Google Search with Cypress
-This project is a demonstration of using Cypress to automate a Google search and check the title of the second result link. It uses the Cypress testing framework and the Cypress-plugin-tab to open the search result in a new tab.
+This project is a demonstration of using Cypress to automate a Google search and check the title of the second result link. It uses the Cypress testing framework and the `Cypress-plugin-tab` to open the search result in a new tab.
 
 ## Requirements
 
-Node.js version 14 or higher
-Cypress version 6 or higher
-cypress-plugin-tab version 3 or higher
+`Node.js version 14` or higher
+`Cypress version 6` or higher
+`cypress-plugin-tab` version 3 or higher
 
 ## Installation
 1. Clone this repository
@@ -14,13 +14,13 @@ cypress-plugin-tab version 3 or higher
 
 ## Configuration
 
-In order to disable chrome web security, you need to add the following line of code in the cypress.config.js file:
+In order to disable chrome web security, you need to add the following line of code in the `cypress.config.js` file:
 
 `Cypress.config("chromeWebSecurity", false);`
 
 ## Recommendations
 
-Make sure you have the latest version of Node.js and Cypress installed
+Make sure you have the latest version of `Node.js` and Cypress installed
 Always check the Cypress documentation for the latest updates and best practices
 
 ## Conclusions
