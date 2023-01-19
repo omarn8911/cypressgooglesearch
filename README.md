@@ -16,7 +16,7 @@ cypress-plugin-tab version 3 or higher
 
 In order to disable chrome web security, you need to add the following line of code in the cypress.config.js file:
 
-Cypress.config("chromeWebSecurity", false);
+`Cypress.config("chromeWebSecurity", false);`
 
 ## Recommendations
 
